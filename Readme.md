@@ -8,4 +8,6 @@ This repository contains a collection of files that represent efforts to obtain 
 
  
 
-Most of the work is done using iPython notebook. 
+Most of the work is done using iPython notebook. I have tried to provide some documentation in the notebooks to define the flow of the program. Adding some error checking/management would make the code more robust.
+
+
