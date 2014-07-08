@@ -11,7 +11,9 @@ This repository contains a collection of files that represent efforts to obtain 
 
 Most of my work is done using [iPython notebook](http://ipython.org/install.html). I use (and greatly appreciate it) but don't support iPython notebook. 
 
-I have tried to document the code in the notebooks to define the flow of the program. Adding some error checking/management would make the code more robust.
+I have tried to document the code in the notebooks to define the flow of the program. I haven't tried to turn the notebooks into tutorials.
+
+These are working files, developed to explore the DPLA API and how the metadata might be manipulated to enhance discovery in a library's discovery system. They haven't been optimized and often reveal a kind of blunt force approach. They can be greatly improved. For example, adding some error checking/management would make the code more robust.
 
 
 ***
